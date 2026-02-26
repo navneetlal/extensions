@@ -3406,7 +3406,7 @@ version = "0.1.0"
 
 [snazzy]
 submodule = "extensions/snazzy"
-version = "0.1.2"
+version = "0.1.3"
 
 [snazzy-light]
 submodule = "extensions/snazzy-light"
