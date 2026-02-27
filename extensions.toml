@@ -2309,7 +2309,7 @@ version = "0.0.1"
 
 [mistral-vibe]
 submodule = "extensions/mistral-vibe"
-version = "2.2.1"
+version = "2.3.0"
 path = "distribution/zed"
 
 [mnemonic]
